@@ -51,5 +51,14 @@ The benefits of it are zero setup friction. Players or learners can execute code
 
 However, there are limitations and risks to it. First of it is, because of the engine uses deterministic pattern matching rather than a full system compiler, it cannot evaluate open-ended multi-file programs nor non-predefined solution logic. Second, excessive dependence on structured blanks and hints may cause beginners to struggle when later required to write complete applications from scratch.
 
+<br>
+
+**3.3.1 Comparison**
+
+| **Dimension** | **Educational Web Gamification** | **Traditional Static LMS** |
+| :--- | :--- | :--- |
+| Interaction Mode | Active, fill-in-the-blank method debugging and scenario analysis. | Passive reading, memorizing for test method |
+| Feedback Latency | Fast feedback | Delayed feedback |
+| Skill Outcome | Build practical threat identification and real-time debugging capabilities | Enforces memorization of definitions for written test. |
 
 

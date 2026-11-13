@@ -11,8 +11,11 @@ iii.	Feedback: The system instantly triggers visual indicators (color-coded high
 
 iv.	Reward & Progression: Validated answer will be an increment for player’s scores to unlock the next level in the game.
 
+<br>
+
 <img width="874" height="1285" alt="image" src="https://github.com/user-attachments/assets/8365b62c-6d74-43a0-9a11-1ae903547b20" />
 
+<br>
 
 <img width="996" height="704" alt="image" src="https://github.com/user-attachments/assets/a7f82f25-b491-4488-b775-74dc60c75eef" />
 

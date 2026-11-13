@@ -14,7 +14,7 @@ iv.	Reward & Progression: Validated answer will be an increment for player’s s
 <br>
 
 <p align="center">
-  <img width="600" alt="System Flowchart" src="https://github.com" />
+  <img width="874" height="1285" alt="image" src="https://github.com/user-attachments/assets/2460eb0e-b921-4d52-a220-0e622fe15e20" />
 </p>
 
 <br>

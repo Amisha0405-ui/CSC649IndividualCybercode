@@ -20,8 +20,7 @@ iv.	Reward & Progression: Validated answer will be an increment for player’s s
 <br>
 <br>
 
-<p align="center">
-  <img width="996" height="704" alt="image" src="https://github.com/user-attachments/assets/fab7cc23-7e77-4069-97dc-24afd1bf20fb" />
-</p>
+<img width="996" height="704" alt="image" src="https://github.com/user-attachments/assets/95d2aefd-00db-46b0-b4b6-6520a1ab630c" />
+
 
 

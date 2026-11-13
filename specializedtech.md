@@ -1,4 +1,5 @@
 **3.1 Concepts**
+
 Educational Gamification combined with a Web-Based Execution Decision Support System (DSS) is a learning module or paradigm that combines gamified behavioural mechanics, for example sequential learning, real-time feedback loops, scoring marks and diagnostic hints directly into web-based execution platform. Rather than depending on passive reading materials, this technology evaluates player’s knowledge by the dashboard.
 
 The core technology functions on a continuous Input-Evaluate-Feedback-Reward (IEFR) lifecycle:

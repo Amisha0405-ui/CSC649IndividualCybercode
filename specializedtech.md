@@ -47,4 +47,29 @@ flowchart TD
     Logout --> End([End])
 ```
 
+```mermaid
+flowchart TD
+    Root["<b>CYBERCODE: AN INTERACTIVE EDUCATIONAL GAME FOR PROGRAMMING & CYBERSECURITY</b>"]
+
+    Root --> CyberEd["CYBERSECURITY EDUCATION"]
+    Root --> Gamified["GAMIFIED LEARNING"]
+    Root --> Summary["SUMMARY"]
+
+    Root --> ProgChal["PROGRAMMING LEARNING CHALLENGES"]
+    ProgChal --> C1["Syntax, semantic and algorithmic logic."]
+    ProgChal --> C2["Information overload."]
+    ProgChal --> C3["Debugging and hands-on coding practice problem due to conventional learning."]
+
+    Root --> ThreatDom["CYBER THREAT DOMAINS"]
+    ThreatDom --> T1["Phishing links and scripts"]
+    ThreatDom --> T2["Malware Types"]
+    ThreatDom --> T3["Online scams"]
+    ThreatDom --> T4["Social Engineering"]
+
+    Root --> CoreMod["CORE SYSTEM MODULES"]
+    CoreMod --> M1["Room-Based Fill-in-the-blank and Debugging IDE."]
+    CoreMod --> M2["Room-Based Threat Scenarios."]
+    CoreMod --> M3["Deterministic score dashboard."]
+```
+
 

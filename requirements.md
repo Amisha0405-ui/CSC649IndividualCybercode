@@ -22,8 +22,6 @@
 **2.3 User stories**
 
 
-### 2.3 User stories
-
 <table>
   <thead>
     <tr>
@@ -49,6 +47,37 @@
       <td valign="top">FR2.</td>
       <td valign="top">
         Given a user submits incorrect code syntax, when validation completes, then the system highlights the exact error line and displays a specific diagnostic error message.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" align="left">User Story 2: Cyber Threat Scenario Analysis</th>
+    </tr>
+    <tr>
+      <th align="left">Story</th>
+      <th align="left">Traceability</th>
+      <th align="left">Acceptance Criteria</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" valign="top">
+        As a computer science student, I want to analyse scenario-driven virtual rooms containing suspicious phishing links and social engineering conversations, so that I can develop basic practical threat pattern recognition skills.
+      </td>
+      <td valign="top">FR3</td>
+      <td valign="top">
+        Given a user enters a Phishing Threat virtual room, when inspecting a sample email script, then the system presents interactive selection options to identify malicious link parameters.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">FR4.</td>
+      <td valign="top">
+        Given a user fails to identify the correct threat vector twice that the user asked for help, then the system generates a progressive hint explaining the specific indicator of the part.
       </td>
     </tr>
   </tbody>

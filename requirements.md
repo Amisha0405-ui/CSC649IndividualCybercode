@@ -19,12 +19,41 @@
 | NFR4 | Security | The browser-embedded code engine shall safely sandbox and execute code validation without exposing backend platform files or client system vulnerabilities. |
 
 
-2.3 User stories
-User Story 1: Real-Time Interactive Code Execution
-Story	Traceability	Acceptance Criteria
-As an early programmer, I want to be able to detect abnormalities in my code and complete missing syntax lines within a debugging and fill-in-the-blank web IDE and get instant error verification, so that I can learn programming logic step-by-step without suffering from mental fatigue.	FR1	Given a user inputs the correct syntax in the code engine, when they click submit, then the system displays a green success confirmation and unlocks the next level within 5 second. 
+**2.3 User stories**
 
-	FR2.	Given a user submits incorrect code syntax, when validation completes, then the system highlights the exact error line and displays a specific diagnostic error message. 
+
+### 2.3 User stories
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" align="left">User Story 1: Real-Time Interactive Code Execution</th>
+    </tr>
+    <tr>
+      <th align="left">Story</th>
+      <th align="left">Traceability</th>
+      <th align="left">Acceptance Criteria</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" valign="top">
+        As an early programmer, I want to be able to detect abnormalities in my code and complete missing syntax lines within a debugging and fill-in-the-blank web IDE and get instant error verification, so that I can learn programming logic step-by-step without suffering from mental fatigue.
+      </td>
+      <td valign="top">FR1</td>
+      <td valign="top">
+        Given a user inputs the correct syntax in the code engine, when they click submit, then the system displays a green success confirmation and unlocks the next level within 5 second.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">FR2.</td>
+      <td valign="top">
+        Given a user submits incorrect code syntax, when validation completes, then the system highlights the exact error line and displays a specific diagnostic error message.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 User Story 2: Cyber Threat Scenario Analysis

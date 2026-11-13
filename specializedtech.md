@@ -21,7 +21,7 @@ iv.	Reward & Progression: Validated answer will be an increment for player’s s
 <br>
 
 <p align="center">
-  <img width="750" alt="Concept Map Diagram" src="https://github.com" />
+  <img width="996" height="704" alt="image" src="https://github.com/user-attachments/assets/fab7cc23-7e77-4069-97dc-24afd1bf20fb" />
 </p>
 
 

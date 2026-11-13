@@ -8,6 +8,7 @@
 | FR4 | The system shall provide progressive, context-aware diagnostic hints when a user submits an incorrect code answer or scenario selection. | Diagnostic Hint Engine |
 | FR5 | The system shall record and update user completion scores and individual skill metrics on a gamified progression dashboard upon completing a level. | Gamified Progression Dashboard|
 
+<br>
 
 **2.2 Non-Functional Requirements**
 
@@ -18,6 +19,7 @@
 | NFR3 | Reliability | The platform shall maintain its operational availability during peak educational lab hours without having heavy system crashes. |
 | NFR4 | Security | The browser-embedded code engine shall safely sandbox and execute code validation without exposing backend platform files or client system vulnerabilities. |
 
+<br>
 
 **2.3 User stories**
 
@@ -52,6 +54,7 @@
   </tbody>
 </table>
 
+<br>
 
 <table>
   <thead>
@@ -83,6 +86,7 @@
   </tbody>
 </table>
 
+<br>
 
 <table>
   <thead>

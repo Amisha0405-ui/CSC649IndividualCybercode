@@ -19,10 +19,3 @@ iv.	Reward & Progression: Validated answer will be an increment for player’s s
 
 <img width="996" height="704" alt="image" src="https://github.com/user-attachments/assets/a7f82f25-b491-4488-b775-74dc60c75eef" />
 
-    Root --> CoreMod["CORE SYSTEM MODULES"]
-    CoreMod --> M1["Room-Based Fill-in-the-blank and Debugging IDE."]
-    CoreMod --> M2["Room-Based Threat Scenarios."]
-    CoreMod --> M3["Deterministic score dashboard."]
-```
-
-

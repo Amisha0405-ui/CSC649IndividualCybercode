@@ -32,15 +32,13 @@ iv.	Reward & Progression: Validated answer will be an increment for player’s s
 
 **3.2 Frameworks, models, methods and tools**
 
+
 | **Framework** | **Category** | **Purpose** |
 | :--- | :--- | :--- |
-| Octalysis Gamification Framework | Behavioural Gamification Design Framework | i)Help with core motivational drives within the platform especially with the Development & Accomplishment. For example, levelling up, point tracking)
-ii)Empowerment of Creativity & Feedback. For example, real-time debugging and hint generation.
- |
+| Octalysis Gamification Framework | Behavioural Gamification Design Framework | i) Help with core motivational drives within the platform especially with the Development & Accomplishment (for example, levelling up, point tracking).<br>ii) Empowerment of Creativity & Feedback (for example, real-time debugging and hint generation). |
 | Deterministic String-Matching & Token Validation Algorithm | System Validation Method | It compares user’s answer with the predefined solution. |
 | Monaco Editor Framework (Web-Embedded IDE Component) | Frontend Software Tool | A browser-based code editing tool that provides real-time syntax highlighting, line numbering and interactive text-input framework. |
 
-<br>
 
 **3.3 Fit to Your Problem**
 

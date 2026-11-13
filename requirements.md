@@ -44,7 +44,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="top">FR2.</td>
+      <td valign="top">FR2</td>
       <td valign="top">
         Given a user submits incorrect code syntax, when validation completes, then the system highlights the exact error line and displays a specific diagnostic error message.
       </td>
@@ -75,7 +75,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="top">FR4.</td>
+      <td valign="top">FR4</td>
       <td valign="top">
         Given a user fails to identify the correct threat vector twice that the user asked for help, then the system generates a progressive hint explaining the specific indicator of the part.
       </td>
@@ -84,19 +84,37 @@
 </table>
 
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" align="left">User Story 3: Gamified Skill Progress Tracking</th>
+    </tr>
+    <tr>
+      <th align="left">Story</th>
+      <th align="left">Traceability</th>
+      <th align="left">Acceptance Criteria</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" valign="top">
+        As a computer science student, I want to analyse scenario-driven virtual rooms containing suspicious phishing links and social engineering conversations, so that I can develop basic practical threat pattern recognition skills.
+      </td>
+      <td valign="top">FR5</td>
+      <td valign="top">
+        Given a user completes any room module or coding exercise, when navigating to the dashboard, then their updated total score and completed module badge are dynamically displayed.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">FR5</td>
+      <td valign="top">
+        Given a user views their dashboard, when inspecting skill progression, then the system displays a breakdown of master levels across Programming Syntax, Phishing, Malware, or Social Engineering domains.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-User Story 2: Cyber Threat Scenario Analysis
-Story	Traceability	Acceptance Criteria
-As a computer science student, I want to analyse scenario-driven virtual rooms containing suspicious phishing links and social engineering conversations, so that I can develop basic practical threat pattern recognition skills.	FR3	Given a user enters a Phishing Threat virtual room, when inspecting a sample email script, then the system presents interactive selection options to identify malicious link parameters.
 
-	FR4	Given a user fails to identify the correct threat vector twice that the user asked for help, then the system generates a progressive hint explaining the specific indicator of the part.
-
-
-User Story 3: Gamified Skill Progress Tracking
-Story	Traceability	Acceptance Criteria
-As a self-learner, I want to view my accumulated score points and skill progression metrics on a gamified dashboard, so that I can track my knowledge progress over time.	FR5	Given a user completes any room module or coding exercise, when navigating to the dashboard, then their updated total score and completed module badge are dynamically displayed.
-
-		Given a user views their dashboard, when inspecting skill progression, then the system displays a breakdown of master levels across Programming Syntax, Phishing, Malware, or Social Engineering domains.
 
 
 

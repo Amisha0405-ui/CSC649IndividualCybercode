@@ -40,6 +40,9 @@ iv.	Reward & Progression: Validated answer will be an increment for player’s s
 | Monaco Editor Framework (Web-Embedded IDE Component) | Frontend Software Tool | A browser-based code editing tool that provides real-time syntax highlighting, line numbering and interactive text-input framework. |
 
 
+<br>
+
+
 **3.3 Fit to Your Problem**
 
 The core problem identified is that beginner programmers suffer from syntax fatigue, mental overload and poor practical hands-on threat retention due to the traditional way of learning. Educational Gamification combined with a Web Execution DSS directly resolves this by replacing raw code coding from scratch with step-by-step, fill-in-the-blank debugging exercises. Real-time visual feedback eliminates the late feedback problem making self-learners can redo or recode their errors immediately.

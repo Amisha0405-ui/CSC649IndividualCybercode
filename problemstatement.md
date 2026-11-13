@@ -10,6 +10,7 @@ Code, debug and cyber threats spotting and learning can be an incredibly frustra
 -	Secondary Stakeholders (Educators & Instructors): Academic staff who can utilize web-based gamified tools to substitute passive lectures during debugging (Gale & Sentence, 2026).
 
 *1.2.1 Project Scope:*
+
 i)	Interactive Debugging and Fill-in-the-Blank Code Engine (Web IDE): A browser-embedded coding workspace where users detect, reconstruct and complete missing and wrong programming logic, loops, and parameters with immediate syntax feedback.
 
 ii)	Interactive Room-Based Cyber Threat Modules: Scenario-driven virtual rooms focusing on basic cyber threat identification, specifically covering Phishing links analysis, Malware Payload recognition, Online Scams, and Social Engineering tactics.
@@ -17,6 +18,7 @@ ii)	Interactive Room-Based Cyber Threat Modules: Scenario-driven virtual rooms f
 iii)	Gamified Deterministic Scoring Dashboard: A progress tracking module providing instant code validation, diagnostic hints, performance metrics, and deterministic score evaluation.
 
 *1.2.2 Out-of-Scope:*
+
 i)	Commercial Sandbox Infrastructure: High-level enterprise virtual sandbox environments or full-fledged IDE compilers.
 
 ii)	Automated Vulnerability Scanners: Automated network vulnerability scanning tools, live packet interception, or real-time intrusion detection systems (IDS).

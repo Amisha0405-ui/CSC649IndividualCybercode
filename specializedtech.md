@@ -61,4 +61,8 @@ However, there are limitations and risks to it. First of it is, because of the e
 | Feedback Latency | Fast feedback | Delayed feedback |
 | Skill Outcome | Build practical threat identification and real-time debugging capabilities | Enforces memorization of definitions for written test. |
 
+<br>
+
+I would choose educational web gamification as it gives me way better hands-on and practical learning about my coding and basic cybersecurity threats. Other than that, I wouldn’t have to wait for such a long time to get an answer from my lecturer or friends regarding the exercise that I did. This helps me to save time, and I can do more programming practice. Not only that, but it is also a fun way of learning coding and at the same time I can polish my knowledge regarding cyber threats. 
+
 

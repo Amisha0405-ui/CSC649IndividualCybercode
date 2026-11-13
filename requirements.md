@@ -7,6 +7,7 @@
 | FR2 | The system shall validate user-submitted code in real time and display immediate syntax error feedback or success confirmations. | Deterministic Evaluation Engine |
 | FR3 | The system shall display interactive room-based scenario modules for identifying cyber threats including Phishing URLs, Malware Payloads, Online Scams and Social Engineering tactics. | Interactive Threat Rooms |
 | FR4 | The system shall provide progressive, context-aware diagnostic hints when a user submits an incorrect code answer or scenario selection. | Diagnostic Hint Engine |
+| FR5 | The system shall record and update user completion scores and individual skill metrics on a gamified progression dashboard upon completing a level. | Gamified Progression Dashboard|
 
 
 Requirement ID	Requirement Description	Technical Focus

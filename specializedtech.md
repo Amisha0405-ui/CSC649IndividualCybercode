@@ -40,4 +40,15 @@ ii)Empowerment of Creativity & Feedback. For example, real-time debugging and hi
 | Deterministic String-Matching & Token Validation Algorithm | System Validation Method | It compares user’s answer with the predefined solution. |
 | Monaco Editor Framework (Web-Embedded IDE Component) | Frontend Software Tool | A browser-based code editing tool that provides real-time syntax highlighting, line numbering and interactive text-input framework. |
 
+<br>
+
+**3.3 Fit to Your Problem**
+
+The core problem identified is that beginner programmers suffer from syntax fatigue, mental overload and poor practical hands-on threat retention due to the traditional way of learning. Educational Gamification combined with a Web Execution DSS directly resolves this by replacing raw code coding from scratch with step-by-step, fill-in-the-blank debugging exercises. Real-time visual feedback eliminates the late feedback problem making self-learners can redo or recode their errors immediately.
+
+The benefits of it are zero setup friction. Players or learners can execute code and analyse threat scenarios directly inside their browsers without installing local IDE compilers or runtime environments in their laptop. Second, it enhanced practical knowledge retention. Fast answer verification and scenario-driven questions basically increase student engagement and practical threat pattern recognition compared to conventional way of learning it.
+
+However, there are limitations and risks to it. First of it is, because of the engine uses deterministic pattern matching rather than a full system compiler, it cannot evaluate open-ended multi-file programs nor non-predefined solution logic. Second, excessive dependence on structured blanks and hints may cause beginners to struggle when later required to write complete applications from scratch.
+
+
 
